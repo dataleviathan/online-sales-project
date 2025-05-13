@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project explores how different online advertisement methods (pop-ups and email blasts) influence consumer purchasing behavior, using customer and sales data from Pop Runner. The analysis was conducted for a database systems course using SQL queries.
+This project explores how different online advertisement methods (pop-ups and email blasts) influence consumer purchasing behavior, using customer and sales data from Pop Runner. The analysis was conducted using SQL queries.
 
 **Objective**
 
