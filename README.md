@@ -24,11 +24,9 @@ Variables: Customer ID, gender, age, loyalty level, email and pop-up interaction
 
 Two advertisement channels analyzed:
 
-Pop-ups: Show discount codes upon website visit
+• Pop-ups: Show discount codes upon website visit
 
-Emails: Sent to all users, trackable if opened
-
-Analysis & Findings
+• Emails: Sent to all users, trackable if opened
 
 **Customer Background**
 
@@ -56,10 +54,10 @@ Top spender opened an email; lowest spender ignored the pop-up
 
 **Recommendations**
 
-Focus on email marketing, especially targeting females around age 30
+• Focus on email marketing, especially targeting females around age 30
 
-Pop-ups alone aren’t effective; consider embedding discount codes in emails instead
+• Pop-ups alone aren’t effective; consider embedding discount codes in emails instead
 
-Improve email subject lines to increase open rate
+• Improve email subject lines to increase open rate
 
-Combine incentives with email for better conversion
+• Combine incentives with email for better conversion
