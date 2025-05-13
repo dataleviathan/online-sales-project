@@ -1,4 +1,4 @@
-**Online Advertisement and Its Impact on Sales**
+****Online Advertisement and Its Impact on Sales****
 
 **Overview**
 
@@ -10,11 +10,11 @@ Determine whether online advertisements increase sales.
 
 **Key Questions**
 
-Which age and gender group contributes the most to sales?
+• Which age and gender group contributes the most to sales?
 
-Are email blasts effective in driving purchases?
+• Are email blasts effective in driving purchases?
 
-Are pop-up ads effective?
+• Are pop-up ads effective?
 
 **Dataset**
 
